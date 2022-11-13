@@ -1,0 +1,60 @@
+.navbar
+{
+
+font-style: italic;
+color:lightblue;
+background-color: l;
+text-decoration:solid;
+clip-path: polygon(0,0,100% 0,100% 0,.2);
+}
+
+.body
+{
+    font-size: 1.5rem;
+    background-color: rgb(222,232,247);
+    text-align: center;
+}
+
+.quote
+{
+    font-size: 2.4rem;
+    color:navy;
+    font-weight: bold;
+
+
+}
+.header
+{
+    text-align: center;
+    font-size: 2rem;
+}
+
+h1{
+    background-color: rgb(6, 5, 63);
+    color: white;
+    margin-left: -7;
+    margin-right: -8;
+    margin-top: -10;
+    padding :20;
+    font-size: larger;
+}
+h2{
+    background-color: rgb(6, 5, 63);
+    color: white;
+    margin-left: -17;
+    margin-right: -8;
+    margin-top: -60;
+    padding :20;
+}
+.button
+{
+ background-color: black;
+ height : 50px;
+ font: italic;
+ width : 600px;
+ color: white;
+
+
+}
+
+
